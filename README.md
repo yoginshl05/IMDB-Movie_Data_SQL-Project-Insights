@@ -21,4 +21,4 @@ We have included a PDF file with final conclusion for RSVP movies to create a mo
 
 # Support
 
-Kindly leave a * if like this project.
+Kindly leave a ⭐ if like this project.
